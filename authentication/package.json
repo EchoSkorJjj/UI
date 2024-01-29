@@ -27,7 +27,7 @@
       "mysql": "^2.18.1",
       "redis": "^4.6.11",
       "reflect-metadata": "^0.2.1",
-      "typeorm": "0.3.18",
+      "typeorm": "0.3.20",
       "winston": "^3.11.0"
    },
    "devDependencies": {
