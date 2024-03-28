@@ -27,7 +27,7 @@
       "mysql": "^2.18.1",
       "redis": "^4.6.11",
       "reflect-metadata": "^0.2.1",
-      "typeorm": "0.3.18",
+      "typeorm": "0.3.20",
       "winston": "^3.11.0"
    },
    "devDependencies": {
@@ -54,7 +54,7 @@
       "husky": "^8.0.3",
       "nodemon": "^3.0.1",
       "ts-node": "10.9.2",
-      "typeorm": "^0.3.18",
+      "typeorm": "^0.3.20",
       "typescript": "5.3.3"
    },
    "husky": {
